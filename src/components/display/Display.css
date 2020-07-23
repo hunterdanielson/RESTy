@@ -1,0 +1,9 @@
+.Display {
+  background-color: whitesmoke;
+  height: 30vw;
+  margin-top: 10px;
+  border: 1px solid lightgray;
+  border-radius: .5em;
+  overflow: auto;
+  padding: 1em;
+}

@@ -12,7 +12,7 @@ const Display = ({ response }) => (
 );
 
 Display.propTypes = {
-  response: PropTypes.shape.isRequired
+  response: PropTypes.object.isRequired
 };
 
 export default Display;
